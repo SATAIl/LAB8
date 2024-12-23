@@ -1,3 +1,4 @@
+package lab8;
 /**
  * Represents a single record in a relational table.
  */

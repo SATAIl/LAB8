@@ -1,2 +1,4 @@
-package lab8;public class Builder {
+package lab8;
+
+public class Builder {
 }

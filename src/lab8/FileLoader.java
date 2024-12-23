@@ -1,6 +1,7 @@
 /**
  * Concrete implementation of Loader that loads a relational table from a file.
  */
+package lab8;
 public class FileLoader extends Loader {
     private final String filePath;
 

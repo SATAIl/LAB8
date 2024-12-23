@@ -1,6 +1,7 @@
 /**
  * Abstract class that defines the template for loading a relational table from an external file.
  */
+package lab8;
 public abstract class Loader {
     /**
      * Loads a relational table from an external source.
